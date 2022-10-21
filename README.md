@@ -1,7 +1,7 @@
 # Internetseite
 
 
-## 1Einführung 
+## 1 Einführung 
 ### 1.1 Problembeschreibung
 Zur Nutzung eines Recherche Programmes soll eine Internetseite erstellt werden welche dem nutzer eine einfache nutzung des Programmes ermöglicht 
 
