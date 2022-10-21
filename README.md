@@ -1,13 +1,13 @@
-# Internetseite
+# Internetseite <br>
 
 
-##1 Einführung
-###1.1 Problembeschreibung
+##1 Einführung <br>
+###1.1 Problembeschreibung<br>
 ...
-###1.2 Motivation und Themenbeschreibung
+###1.2 Motivation und Themenbeschreibung<br>
 ...
 
-##2 Strukturierung der Arbeit
+##2 Strukturierung der Arbeit<br> 
 ###2.1 Gruppenmitglieder & Rollen
 Name| Rolle 
 -------- | -------- 
