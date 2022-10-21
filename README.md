@@ -23,9 +23,9 @@ Marcel Sander  | Scrum Master
 
 ### 2.2.1 Userstory
 
-Als.. | möchte ich.... | damit...| Ergebniss
+Als.. | möchte ich.... | damit ich...| Ergebniss
 -------- | -------- | --------| --------
-Kunde  | Objekte suchen   | ich diese lerne | Kunde findet gesuchtes Objekt
+Kunde  | Objekte suchen   | diese lerne | Kunde findet gesuchtes Objekt
 
 
 ### 2.3 Aufwandsabschätzung
