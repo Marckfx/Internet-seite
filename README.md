@@ -1,6 +1,6 @@
 # Internetseite
 
-# Software Spezifikation
+## Software Spezifikation
 
 ## 1 Einführung 
 ### 1.1 Problembeschreibung
