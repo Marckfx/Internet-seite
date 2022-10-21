@@ -1,2 +1,2 @@
-# Internet-seite
+# Internetseite
 Front and Backend
