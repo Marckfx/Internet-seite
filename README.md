@@ -21,14 +21,14 @@ Marcel Sander  | Scrum Master
 ....
 
 
-## 2.2.1 Userstory
+### 2.2.1 Userstory
 
 Als.. | möchte ich.... | damit...| Ergebniss
 -------- | -------- | --------| --------
 Kunde  | Objekte suchen   | ich diese lerne | Kunde findet gesuchtes Objekt
 
 
-## 2.3 Aufwandsabschätzung
+### 2.3 Aufwandsabschätzung
 Phase| Zeit
 -------- | -------- 
 Definition  | h
