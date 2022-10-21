@@ -1,13 +1,16 @@
-# Internetseite <br>
+# Internetseite
 
 
-## 1Einführung <br>
-### 1.1 Problembeschreibung<br>
-...
-### 1.2 Motivation und Themenbeschreibung<br>
-...
+## 1Einführung 
+### 1.1 Problembeschreibung
+Zur Nutzung eines Recherche Programmes soll eine Internetseite erstellt werden welche dem nutzer eine einfache nutzung des Programmes ermöglicht 
 
-## 2 Strukturierung der Arbeit<br> 
+### 1.2 Motivation und Themenbeschreibung
+
+
+## 2 Strukturierung der Arbeit
+
+
 ### 2.1 Gruppenmitglieder & Rollen
 Name| Rolle 
 -------- | -------- 
